@@ -1,0 +1,106 @@
+{
+  "TRUTH": [
+    {
+      "id": 1,
+      "text": "What's the most romantic thing someone has ever done for you?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 2,
+      "text": "What's your biggest relationship fear?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 3,
+      "text": "What's the first thing you noticed about your partner?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 4,
+      "text": "What's your idea of a perfect date?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 5,
+      "text": "What's something you've never told anyone before?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 6,
+      "text": "What's your most embarrassing dating story?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 7,
+      "text": "What's the sweetest text message you've ever received?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 8,
+      "text": "What's your love language and why?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 9,
+      "text": "What's one thing you wish your partner knew about you?",
+      "type": "TRUTH"
+    },
+    {
+      "id": 10,
+      "text": "What's your biggest turn-on in a relationship?",
+      "type": "TRUTH"
+    }
+  ],
+  "DARE": [
+    {
+      "id": 11,
+      "text": "Give your partner a 30-second massage",
+      "type": "DARE"
+    },
+    {
+      "id": 12,
+      "text": "Write a short love poem and read it aloud",
+      "type": "DARE"
+    },
+    {
+      "id": 13,
+      "text": "Do your best impression of your partner",
+      "type": "DARE"
+    },
+    {
+      "id": 14,
+      "text": "Dance together for one minute without music",
+      "type": "DARE"
+    },
+    {
+      "id": 15,
+      "text": "Tell your partner three things you love about them",
+      "type": "DARE"
+    },
+    {
+      "id": 16,
+      "text": "Recreate your first kiss",
+      "type": "DARE"
+    },
+    {
+      "id": 17,
+      "text": "Sing your partner's favorite song to them",
+      "type": "DARE"
+    },
+    {
+      "id": 18,
+      "text": "Give your partner a compliment in a funny voice",
+      "type": "DARE"
+    },
+    {
+      "id": 19,
+      "text": "Draw a portrait of your partner in 60 seconds",
+      "type": "DARE"
+    },
+    {
+      "id": 20,
+      "text": "Tell your partner a secret you've never shared",
+      "type": "DARE"
+    }
+  ]
+}
